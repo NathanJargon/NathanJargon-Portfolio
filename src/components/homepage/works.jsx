@@ -19,8 +19,8 @@ const Works = () => {
 								className="work-image"
 							/>
 							<div className="work-title">Full-Stack Developer</div>
-							<div className="work-subtitle">QuantumQuill</div>
-							<div className="work-duration">Feb 2024 - Present · 8 mos</div>
+							<div className="work-subtitle">QuantumQuill · Part-time</div>
+							<div className="work-duration">Feb 2024 - Present</div>
 						</div>
 
 						<div className="work">
@@ -31,7 +31,7 @@ const Works = () => {
 							/>
 							<div className="work-title">Full Stack Developer</div>
 							<div className="work-subtitle">Freelance</div>
-							<div className="work-duration">Nov 2023 - Present · 11 mos</div>
+							<div className="work-duration">Nov 2023 - Present</div>
 						</div>
 
 
@@ -42,7 +42,7 @@ const Works = () => {
 								className="work-image"
 							/>
 							<div className="work-title">Machine Learning Engineer</div>
-							<div className="work-subtitle">Contract</div>
+							<div className="work-subtitle">Ivy · Contract</div>
 							<div className="work-duration">Nov 2023 - January 2023 · 3 mos</div>
 						</div>
 
@@ -53,7 +53,7 @@ const Works = () => {
 								className="work-image"
 							/>
 							<div className="work-title">AI Engineer</div>
-							<div className="work-subtitle">RadicalX</div>
+							<div className="work-subtitle">RadicalX · Internship</div>
 							<div className="work-duration">Oct 2023 - Feb 2024 · 5 mos</div>
 						</div>
 
@@ -64,7 +64,7 @@ const Works = () => {
 								className="work-image"
 							/>
 							<div className="work-title">Field Assistant Technician</div>
-							<div className="work-subtitle">Parasat Cable TV</div>
+							<div className="work-subtitle">Parasat Cable TV · On Job Training</div>
 							<div className="work-duration">Nov 2022 - Jan 2023 · 3 mos</div>
 						</div>
 					</div>
