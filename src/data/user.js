@@ -34,50 +34,97 @@ const INFO = {
 	},
 
 	projects: [
+		
 		{
-			title: "Project 1",
+			title: "Ecoventurer",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"A garbage classifier mobile game using OpenAI ZSCC.",
+			logo: "ecoventurer.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/NathanJargon/Ecoventurer",
 		},
 
 		{
-			title: "Project 2",
+			title: "Madra",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"A mobile app that teaches disaster readiness and provides real time earthquake information.",
+			logo: "madra.png",
+			linkText: "View Project",
+			link: "https://github.com/NathanJargon/Madra",
+		},
+
+		{
+			title: "Project Karbon",
+			description:
+				"Karbon is a mobile carbon footprint tracker and emission logger application. It's designed to help individuals and organizations monitor and reduce their carbon emissions.",
+			logo: "project1.png",
+			linkText: "View Project",
+			link: "https://github.com/NathanJargon/Karbon",
+		},
+
+		{
+			title: "Project AGUI",
+			description:
+				"A customtkinter water bill GUI with mathplotlib and sql. It's designed to help individuals and organizations monitor and reduce their water consumption.",
+			logo: "project2.png",
+			linkText: "View Project",
+			link: "https://github.com/NathanJargon/AGUI",
+		},
+
+		{
+			title: "ExpensePal",
+			description:
+				"A simple web application that tracks personal expenses. It's designed to help individuals monitor and reduce their expenses.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://github.com/NathanJargon/ExpensePal",
+		},
+
+		{
+			title: "Interminable-RPG",
+			description:
+				"An RPG turn-based system with complex system made with pygame.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/NathanJargon/Interminable-RPG",
 		},
 
 		{
-			title: "Project 3",
+			title: "CodeOwl",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"A Java GUI about teaching Java programming.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/NathanJargon/CodeOwl",
 		},
 
 		{
-			title: "Project 4",
+			title: "MongoAtlasTM",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"A mobile task management system with MongoDB Atlas.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/NathanJargon/MongoAtlasTM",
 		},
 
 		{
-			title: "Project 5",
+			title: "CodeQuest",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"A C++ GUI about teaching C++ programming.",
+			logo: "codequest.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/NathanJargon/Codequest",
 		},
+
+		{
+			title: "SchoolPortalMobile",
+			description:
+				"A school management system mobile application for students and staff.",
+			logo: "schoolportal.png",
+			linkText: "View Project",
+			link: "https://github.com/NathanJargon/SchoolPortalMobile",
+		},
+
 	],
 };
 
