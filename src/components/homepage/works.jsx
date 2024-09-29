@@ -43,7 +43,7 @@ const Works = () => {
 							/>
 							<div className="work-title">Machine Learning Engineer</div>
 							<div className="work-subtitle">Contract</div>
-							<div className="work-duration">Nov 2023 - January 2023 · 1 yr</div>
+							<div className="work-duration">Nov 2023 - January 2023 · 3 mos</div>
 						</div>
 
 						<div className="work">
